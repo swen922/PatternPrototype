@@ -5,6 +5,8 @@ import shape.Shape;
 import java.util.ArrayList;
 import java.util.List;
 
+/** Прототип, также известен как: Клон, Prototype */
+
 public class App {
 
     public static List<Shape> listShapes1 = new ArrayList<>();
